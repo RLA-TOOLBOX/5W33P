@@ -1,4 +1,5 @@
 # Web Vulnerability Scanner
+CREATED BY: RedJester
 
 ## 📌 Overview
 The **Web Vulnerability Scanner** is a security tool designed to **identify and exploit vulnerabilities** in web applications for educational and ethical penetration testing purposes.  
